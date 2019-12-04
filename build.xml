@@ -28,7 +28,7 @@
             <fx:application refid="DeployDemoID"/>
             <fx:resources refid="appRes"/>
             <fileset dir="${build.classes.dir}"/>
-
+//
         </fx:jar>
 
         <fx:deploy width="300" height="250"
